@@ -1,2 +1,2 @@
 # SimpleServer
-A simple server and client.
+A simple server and client for test go networking.
